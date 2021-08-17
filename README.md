@@ -1,2 +1,2 @@
-# coursera-html
-repositorio de prueba para el curso html de coursera
+# HTML, CSS, and Javascript for Web Developers
+Repository for delivring assigments 
